@@ -95,7 +95,7 @@ ATM_simulator/
 ├── icons/           # UI images
 ├── sounds/          # WAV audio files
 ├── requirements.txt # Python dependencies
-├── .env.example     # Environment variable template
+├── .env             # Environment variable template
 └── .gitignore
 ```
 
